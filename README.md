@@ -4,7 +4,7 @@
   - 💡 Estou focando meus estudos em HTML5, CSS3 e Javascript !
   - 📫 Encontre-me no LinkedIn: https://www.linkedin.com/in/eduardoferreira7/
 
-  <div>
+  <div style="display: inline_block" align="center">
     <a href="https://github.com/eduardoferreira7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoferreira7&show_icons=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=FFFFFF&bg_color=000000&border_color=B0E0E6&locale=en&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoferreira7&layout=compact&langs_count=7&title_color=7FFFD4&icon_color=7FFFD4&text_color=FFFFFF&bg_color=000000&border_color=B0E0E6&locale=en"/>
@@ -12,7 +12,7 @@
 
   ##
 
-  <div style="display: inline_block" align="center" border="3px solid 000000"><br>
+  <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
