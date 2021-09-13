@@ -1,7 +1,7 @@
 ### Me chamo __Eduardo Ferreira Aquino__, seja muito bem-vindo(a)! 🤩
 
   - 🔨 Atualmente trabalho como analista de produção. (A procura de uma oportunidade no mundo do front-end 😍)
-  - 💡 Estou focando meus estudos em HTML5, CSS3 e Javascript !
+  - 💡 Atualmente focado nos estudos em HTML5, CSS3 e Javascript !
   - 📫 Encontre-me no LinkedIn: https://www.linkedin.com/in/eduardoferreira7/
 
   <div style="display: inline_block" align="center">
