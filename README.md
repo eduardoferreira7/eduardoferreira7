@@ -1,6 +1,6 @@
 ### Me chamo __Eduardo Ferreira Aquino__, seja muito bem-vindo(a)! 🤩
 
-  - 🔨 Atuando como analista de produção do grupo BIG e Desenvolvedor JAVA Jr do banco Next.
+  - 🔨 Atuando como analista de produção para Seturia no grupo BIG e Desenvolvedor JAVA para Capgemini no banco Next.
   - 💡 Atualmente focado nos estudos em Java !
   - 📫 Encontre-me no LinkedIn: https://www.linkedin.com/in/eduardoferreira7/
 
